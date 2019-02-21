@@ -1,0 +1,4 @@
+1. npm install
+2. sudo npm  install  --save prop-types
+3. npm start
+
